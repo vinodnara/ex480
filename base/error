@@ -1,0 +1,8 @@
+accumulating resources: accumulation err='accumulating resources from
+    '../../base': read /tmp/mysql/mysql-subscription-2/base: is a directory':
+    recursed accumulation of path '/tmp/mysql/mysql-subscription-2/base':
+    accumulating resources: accumulation err='accumulating resources from
+    'kustomization.yaml': missing metadata.name in object {{ Kustomization} {{ }
+    map[] map[]}}': got file 'kustomization.yaml', but
+    '/tmp/mysql/mysql-subscription-2/base/kustomization.yaml' must be a
+    directory to be a root/n
